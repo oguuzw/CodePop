@@ -1,4 +1,4 @@
-# YGT - Interactive Photo Display
+#Interactive Photo Display
 
 This project is an interactive web application that displays programming language logos when you click on the screen.
 
